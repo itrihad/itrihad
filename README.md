@@ -1,11 +1,11 @@
 
 <!-- Header Image -->
  <p align="center"   >
-  <img src="dev.gif" width="100%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+  <img src="dev.gif" width="100%" alt="Muhammad Rihad @itrihad"> 
 </p>
 
 <!-- Title -->
-<h1 align="center">Rihad Jahan Opu</h1>
+<h1 align="center">Muhammad Rihad</h1>
 
 <!-- Subtitle -->
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## About
 
-🔭 Hello, I'm Rihad Jahan Opu, a Full-Stack Developer with a passion for building exceptional web and mobile applications. My core expertise lies in ReactJS, NextJS, Node.js, and React Native, enabling me to create secure, high-performance solutions for businesses of all sizes. I excel in both front-end and back-end development, ensuring seamless user experiences and robust functionality. Whether you require a dynamic website, a scalable API, or a cross-platform mobile app, I'm dedicated to delivering tailored solutions that meet your specific needs and exceed your expectations. Let's collaborate to bring your project vision to life with precision and creativity and I am proficient in a variety of technologies and languages, ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
+🔭 Hello, I'm Muhammad Rihad, a Full-Stack Developer with a passion for building exceptional web and mobile applications. My core expertise lies in ReactJS, NextJS, Node.js, and React Native, enabling me to create secure, high-performance solutions for businesses of all sizes. I excel in both front-end and back-end development, ensuring seamless user experiences and robust functionality. Whether you require a dynamic website, a scalable API, or a cross-platform mobile app, I'm dedicated to delivering tailored solutions that meet your specific needs and exceed your expectations. Let's collaborate to bring your project vision to life with precision and creativity and I am proficient in a variety of technologies and languages, ``` 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: ```<br>
 * ⚡ &emsp;𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>
 * ⚡ &emsp;𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js, Express, Python, Django, Deno<br>
 * ⚡ &emsp;𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: PostgreSQL, MySQL, MongoDB<br>
